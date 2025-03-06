@@ -1,6 +1,7 @@
 # MUB Generator with Qiskit
 
-This script generates the full set of mutually unbiased bases (MUBs) for a given number of qubits using Qiskit.
+This script generates the full set of mutually unbiased bases (MUBs) for a given number of qubits between 2 and 10 using Qiskit.
+
 
 ## Requirements
 
@@ -27,3 +28,5 @@ This script generates the full set of mutually unbiased bases (MUBs) for a given
 Run the script and follow the prompt to input the number of qubits (1 to 10):
 ```sh
 python MUB_generator_qiskit.py
+
+The complete set of bases is then saved in the current directory as both a .npy file and .txt file
