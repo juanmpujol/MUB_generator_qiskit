@@ -2,6 +2,8 @@
 
 This script generates the full set of mutually unbiased bases (MUBs) for a given number of qubits between 2 and 10 using Qiskit.
 
+Adapted from the article ["An Efficient Quantum Circuit Construction Method for Mutually Unbiased Bases in $n$-Qubit Systems", Wang Yu, Wu Dongsheng](https://arxiv.org/abs/2311.11698)
+
 
 ## Requirements
 
